@@ -23,7 +23,7 @@
 ### **🇺🇸[Odysee](https://odysee.com/)**
 ```
 建于2020年，去中心化上传站.
-得益于去中心化 极难被和谐, 故Odysee可作为其余三家都无法上传的极少数作品之备选去处(仅建议上传汉语或汉化作品)
+得益于去中心化 极难被和谐, 故odysee可作为其余三家都无法上传的极少数作品之备选去处(仅建议上传汉语或汉化作品)
 ```
 
 
@@ -39,97 +39,67 @@
 ```
 
 
-🇨🇳 [**爱壹帆](https://www.yfsp.tv/)
-
+### **🇨🇳[爱壹帆](https://www.yfsp.tv/)**
+```
 建于2017年，汉语世界里大名鼎鼎的海盗视频站，少有的有做视频分集机制的上传站.（中国内地访问需将梯子开全局代理）
-
 值得一提的是，爱壹帆虽明面宣称可上传，但目前所有影视来自为数不多的几个固定上传者，加之po主一个月前上传影片目前仍在审核，可合理认为上传者多是站方相关人员，或需申请上传资格，对普通用户有潜在门槛。**
+```
 
-</aside>
 
 # **音乐类**
 
-<aside>
-🇩🇪 [**Soundcloud](https://soundcloud.com/discover)
 
-建于2007年。免费用户可上传2-300首，付费会员可无限上传**
+### **🇩🇪[Soundcloud](https://soundcloud.com/discover)**
+```
+建于2007年。免费用户可上传2-300首，付费会员可无限上传
+```
 
-</aside>
-
-<aside>
-🇺🇸
-
-[**Audius](https://audius.co/feed)
-
+### **🇺🇸[Audius](https://audius.co/feed)**
+```
 建于2018年，去中心化上传站.
-
 得益于去中心化 极难被和谐, 故Audius作为其余两家都无法上传的极少数作品之备选去处(仅建议上传汉语或汉化作品)**
+```
 
-</aside>
-
-<aside>
-🇷🇺
-
-[**VK Muisc](https://vk.com/audio)
-
+### **🇷🇺[VK Muisc](https://vk.com/audio)**
+```
 建于2006年 ,俄罗斯最大社交平台VK的音乐站，创始人杜罗夫是个极端的自由主义者和无版权拥护者。（虽然他早已离任，但精神永存）
-
 因俄民间悠久独特的版权观，以及俄《民法典》第1253.1条相关规定：社交平台作为信息中介不对用户上传负责，因此站内多年积累的作品上传极多。
-
 值得一提的是，VK只支持手机号注册**
-
-</aside>
+```
 
 # **电子书类**
 
-<aside>
-🇺🇳 [**Z-Library](https://mastodon.social/@Z_Lib_official)
-
+### **🇺🇳[Z-Library](https://mastodon.social/@Z_Lib_official)**
+```
 建于2009年，著名的 起源于俄的电子书网站。因域名常换，故贴Mastodon官方主页。**
+```
 
-</aside>
-
-<aside>
-🇺🇳
-
-[**The Library Genesis](https://social.datalabour.com/@libgenbot)
-
+### **🇺🇳[The Library Genesis](https://social.datalabour.com/@libgenbot)**
+```
 建于2008年, 前身是苏联时期的地下印刷组织，享誉世界的影子图书馆项目.
-
 和zlib一样，域名常换，故贴Mastodon发布页.**
+```
 
-</aside>
-
-<aside>
-🇺🇳
-
-[**Anna’s Archive](https://annas-archive.org/)
-
+### **🇺🇳[Anna’s Archive](https://annas-archive.org/)**
+```
 建于2022年，一家自由、非营利的影子图书馆元搜索引擎，2022年11月，他们得知FBI查封Z-Library后，决定创立安娜的档案。
-
 值得一提的是，安娜档案涵盖了大部分前文libgen和zlib的资源，但其暂时只支持超大规模的 以及不被其他网站接受的书籍上传，对于小数量的上传者，仍需上传zlib或libgen**
-
-</aside>
+```
 
 # **作品评价类**
 
-<aside>
-🇺🇳 [**Neodb](https://neodb.social/)
-
+### **🇺🇳 [Neodb](https://neodb.social/)**
+```
 建于2021年，海外汉语世界的”满血版豆瓣“，内容全面且表达自由，并支持自建缺失的作品条目信息。
-
 NEODB开源免费，靠捐赠与情怀运营，如体验不错，大飙客建议长期赞助一点小钱
-
 NEODB受捐链接：**https://ko-fi.com/neodb
-
-</aside>
+```
 
 # **软件&游戏类**
 
 - **tips：虽盘点网站皆经过大飙客之遴选，但因”学习版”软件或游戏无可避免有安全性良莠不齐之嫌，请在一定心理预期与安全意识之前提下查看以下内容。**
 
-<aside>
-🇨🇳 [**小叽资源](https://steamzg.com/)
+### **🇨🇳[小叽资源](https://steamzg.com/)**
 
 建站时间不可考，小叽资源是整个汉语世界最棒的软件/游戏共享站(服务器位于海外)
 
@@ -138,10 +108,7 @@ NEODB受捐链接：**https://ko-fi.com/neodb
 
 若您有网页广告屏蔽措施，建议将小叽添加至白名单。站长宣称所有运营之费用均取于用爱发电及广告投放，虽承诺永不向用户收费，但目前运营压力确也不假。**
 
-</aside>
-
-<aside>
-🇺🇳 [**Filecr](https://filecr.com/)
+### 🇺🇳[**Filecr](https://filecr.com/)
 
 建于2008年，Filecr算是软件/游戏类海盗站较专业化的一类，他们宣称致力于提供一个全面的平台，提供种类繁多的软件应用程序，以满足用户的多样化需求。
 
@@ -149,18 +116,12 @@ NEODB受捐链接：**https://ko-fi.com/neodb
 
 值得一提的是，目前Filecr的所有上传均需以英文形式收录；域名已被部分国家墙掉，可能需要vpn。**
 
-</aside>
-
-<aside>
-🇨🇳 [**游戏星空](https://gamestarfield.com/)
+### 🇨🇳 [**游戏星空](https://gamestarfield.com/)
 
 建站时间不可考，近年杀出的黑马资源共享站 (服务器位于海外)，氛围良好。
 
 支持用户自主发布，但侧重游戏相关发布，虽也支持软件发布，但暂未设立独立的软件专区。**
 
-</aside>
-
-<aside>
 🇷🇺 [**Rutracker](https://rutracker.org/)
 
 建于2004年，俄罗斯最屌的资源分享站。除软件/游戏还有若干其他”经史子集”分类，极多学习版软件/游戏之源流在此。2015年11月被莫斯科法院查封，2022俄乌战争期间解封。

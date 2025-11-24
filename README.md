@@ -107,7 +107,7 @@ NEODB受捐链接：https://ko-fi.com/neodb
 ### **🇺🇳 [Matters](https://matters.town/)**
 ```
 建于2018，海外汉语世界去中心化的长文撰写平台，逼格与质量都很高，可以当做Neodb无长文功能之补充。
-Matters与加密货币合作，读者可通过拍手按钮让作者获得由LikeCoin每月基金分配的LikeCoin，
+Matters与加密货币合作，读者可通过拍手按钮让作者获得LikeCoin，
 亦或直接为作者贡献指定数额的金钱支持。
 ```
 
